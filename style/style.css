@@ -1,0 +1,43 @@
+h1{
+    color: yellow;
+}
+h1{
+    font-family: "Comic Sans MS";
+}
+p{
+    font-family: "Casual Contact MF";
+}
+body{
+    background: url(img/fon.jpg);
+}
+.one{
+    background-color: unset;
+    color: #931322;
+    width: 16%;
+    float: left;
+}
+.two{
+    background-color: red;
+    color: gold;
+    width: 33%;
+    float: left;
+}
+.tree{
+    background-color: brown;
+    color: yellow;
+    width: 33%;
+    float: left;
+}
+.tree,.two{
+    font-family: "Times New Roman"
+}
+.tree,.two{
+    font-size: 35px;
+}
+.no{
+    text-align: center;
+    background-color: brown;
+    color: yellow;
+    width: 100%;
+    float: center;
+}
